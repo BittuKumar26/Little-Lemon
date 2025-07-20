@@ -25,7 +25,7 @@ This is a React-based reservation form for the fictional Mediterranean restauran
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MedhaSanketh/little-lemon-capstone.git
+   git clone https://github.com/BittuKumar26/Little-Lemon.git
    cd little-lemon-capstone
 
 2. Install Dependencies
